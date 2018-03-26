@@ -23,7 +23,7 @@ do{
   array.push(`I love the Beatles!`)
   i++;
 } while(i < n+1);
-  if(n < 15){
+  if(n < 17){
    return array
   }else{
    return array
