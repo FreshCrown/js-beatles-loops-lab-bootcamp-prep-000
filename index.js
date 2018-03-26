@@ -23,8 +23,6 @@ do{
   array.push(`I love the Beatles!`)
   i++;
 } while(i < n-1);
-  
 
-return 
+return array
 }
-
