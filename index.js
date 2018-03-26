@@ -24,7 +24,7 @@ do{
   i++;
 } while(i < n+1);
   if(n < 15){
-    return 
+    array = 
   }
 return array
 }
