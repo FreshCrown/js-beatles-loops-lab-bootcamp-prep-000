@@ -21,9 +21,10 @@ function iLoveTheBeatles(n){
 
 do{
   
- var i = 0;
+ 
 } while(i );
    array.push(`I love the Beatles!`)
+ 
   i++;
 }
 return 
