@@ -26,7 +26,7 @@ do{
   if(n < 15){
    return array
   }else{
-     array = "I love the Beatles!"
+   return array
 
   }
 return array
