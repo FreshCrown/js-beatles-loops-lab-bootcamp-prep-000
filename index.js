@@ -25,8 +25,10 @@ do{
 } while(i < n+1);
   if(n < 15){
     array = "I love the Beatles!"
-  }else
+  }else if(n > 17)
      array = "I love the Beatles!"
+  } else{
+    
   }
 return array
 }
